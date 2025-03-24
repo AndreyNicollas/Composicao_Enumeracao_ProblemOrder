@@ -13,6 +13,7 @@ Por fim, também estudei as categorias de classes, entendendo a importância de 
 Esse aprendizado me proporcionou uma visão mais clara sobre como criar sistemas Java bem estruturados, reutilizáveis e de fácil manutenção.
 #
 ### Problema
+Ler os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um sumário do pedido conforme exemplo (próxima página). Nota: o instante do pedido deve ser o instante do sistema: new Date()
 ![UML - Order](https://github.com/AndreyNicollas/Composicao_Enumeracao_ProblemOrder/blob/main/Captura%20de%20tela%202025-03-24%20115217.png)
 #
 ### Exemplos
